@@ -318,7 +318,7 @@ post_navigation: left
 # TagCloud settings for tags page.
 tagcloud:
   # All values below are same as default, change them by yourself.
-  min: 12 # Minimun font size in px
+  min: 18 # Minimun font size in px
   max: 30 # Maxium font size in px
   start: "#ccc" # Start color (hex, rgba, hsla or color keywords)
   end: "#111" # End color (hex, rgba, hsla or color keywords)
@@ -431,7 +431,7 @@ font:
   global:
     external: true
     family: Lato
-    size: 
+    size: 0.8
 
   # Font settings for site title (.site-title).
   title:
