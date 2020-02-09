@@ -597,7 +597,7 @@ comments:
 # Disqus
 disqus:
   enable: true
-  shortname: ellendan
+  shortname: ellendan-com
   count: true
   #post_meta_order: 0
 
