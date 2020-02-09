@@ -430,14 +430,14 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
+    family: Lato, 'Microsoft YaHei'
     size: 0.8
 
   # Font settings for site title (.site-title).
   title:
     external: true
     family:
-    size:
+    size: 1
 
   # Font settings for headlines (<h1> to <h6>).
   headings:
