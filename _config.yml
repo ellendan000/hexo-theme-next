@@ -159,11 +159,11 @@ sidebar:
   display: post
 
   # Sidebar padding in pixels.
-  padding: 18
+  padding: 60
   # Sidebar offset from top menubar in pixels (only for Pisces | Gemini).
   offset: 12
   # Enable sidebar on narrow view (only for Muse | Mist).
-  onmobile: false
+  onmobile: true
 
 # Sidebar Avatar
 avatar:
@@ -196,7 +196,7 @@ social:
 social_icons:
   enable: true
   icons_only: false
-  transition: false
+  transition: true
 
 # Blog rolls
 links_settings:
@@ -215,9 +215,9 @@ toc:
   # Automatically add list number to toc.
   number: true
   # If true, all words will placed on next lines if header width longer then sidebar width.
-  wrap: false
+  wrap: true
   # If true, all level of TOC in a post will be displayed, rather than the activated part of it.
-  expand_all: false
+  expand_all: true
   # Maximum heading depth of generated toc.
   max_depth: 6
 
